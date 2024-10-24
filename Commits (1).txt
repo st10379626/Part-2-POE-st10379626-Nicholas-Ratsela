@@ -1,0 +1,6 @@
+1) Include combo boxes
+2)Added A new view  (claim submitted).
+3)Create LecturerClaimController and add actions for GET and set.
+4)Added a view for the Academic Manager
+5)Add validation logic and basic styling to the form.
+Handle form submission and add ClaimSuccess page.
